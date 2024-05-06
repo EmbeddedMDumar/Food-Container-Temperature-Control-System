@@ -1,0 +1,25 @@
+names:
+- apple pie calories(300-400) ingredients:Apples,Pastry crust,Sugar,Spices,Lemon juice,Butter
+- baby back ribs calories(200-300) ingredients:Baby Back Ribs,Barbecue Sauce,Oil or Fat,Liquid for Braising
+- Bruscetta Calories(150-350),Ingredients:Italian bread,Tomatoes,Fresh basil leaves,garlic cloves,salt and pepper.
+- Caesar_Salad calories(250-350),Ingredients:Romaine lettuce,caesar dressing,croutons,Parmesan cheese,Chicken breast.
+- Cannoli Calories(200-300),Ingredients:Cannoli shells,Ricotta cheese,Powdered sugar.
+- Caprese_Salad Calories(144-244),Ingredients:Fresh tomatoes,Fresh mozzarella cheese,Fresh basil leaves,Balsamic glaze,Salt and pepper.
+- Carrot Cake Calories(300-400),Ingredients:Carrots,Flour, sugar, eggs, vegetable oil, and spices,Cream cheese frosting,Nuts or raisins.
+- beef_carpaccio Calories(150-300),Ingredients:Beef,Olive Oil,Parmesan Cheese,Lemon Juice, Dijon Mustard,Arugula
+- beef_tartare Calories(200-400),Ingredients:Beef,Egg Yolk,Mustard,Capers,Worcestershire Sauce,Cornichons
+- beet_salad Calories(100-200),Ingredients:Beets,Greens,Cheese,Balsamic Vinegar,Leafy Greens,Goat Cheese
+- chicken_curry Calories(200-400),Ingredients:Chicken,Curry Paste,Onions,Tomatoes,Coconut Milk
+- chicken_quesadilla Calories(300-600),Ingredients:Tortillas,Chicken,Cheese,Bell Peppers,Salsa
+- chicken_wings Calories(200-300),Ingredients:Chicken Wings,Oil,SaltandPepper,Sauce,Butter
+- cup_cakes Calories(100-200),Ingredients:Flour,Sugar,Butter,Eggs,Baking Powder
+- fried_rice Calories(200-400),Ingredients:Cooked Rice,Chicken,Egg,Vegetables,Soy Sauce,Oil
+- pizza Calories(200-300),Ingredients:Dough,Tomato Sauce,Cheese,Toppings,Olive Oil
+- samosa Calories(100-150),Ingredients:Pastry Dough,Potatoes,Peas,Spices,Onions
+- fish_and_chips Calories(600-1,200),Ingredients:White Fish Fillets,Potatoes,Batter,Oil,Salt
+- shrimp_and_grits Calories(300-600),Ingredients:Shrimp,Grits,Butter,Bacon,Garlic
+- eggs_benedict Calories(500-800),Ingredients:Poached Eggs,English Muffin,Canadian Bacon,Hollandaise Sauce,Butter
+
+test: /content/test/images
+train: /content/train/images
+val: /content/valid/images
